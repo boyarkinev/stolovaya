@@ -1,0 +1,14 @@
+.widgets__sale-link {
+  font-weight: 200;
+  font-size: 18px;
+  line-height: 24px;
+  color: #ffaf2d;
+  margin-top: 0;
+  margin-bottom: 46px;
+  text-decoration: none;
+  transition: opacity .3s;
+}
+
+.widgets__sale-link:hover {
+  opacity: .7;
+}

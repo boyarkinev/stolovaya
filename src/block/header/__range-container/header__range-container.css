@@ -1,0 +1,14 @@
+.header__range-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  margin: 0;
+  text-decoration: none;
+  color: #343434;
+  transition: color .3s;
+}
+
+.header__range-container:hover {
+  color: #050505;
+}

@@ -1,0 +1,21 @@
+@import url(./__header/select__header.css);
+@import url(./__current/select__current.css);
+@import url(./__icon/select__icon.css);
+@import url(./__body/select__body.css);
+@import url(./__item/select__item.css);
+
+.select {
+  margin: 0 auto;
+  position: relative;
+  z-index: 5;
+  background-color: #f1f1f1;
+  border-top-left-radius: 7px;
+  border-bottom-left-radius: 7px;
+  color: #777;
+  display: flex;
+  align-items: center;
+}
+
+.select.is-active .select__body {
+  display: block;
+}

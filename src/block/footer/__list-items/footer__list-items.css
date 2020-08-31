@@ -1,0 +1,6 @@
+@import url(./_space-after/footer__list-items_space-after.css);
+
+.footer__list-items {
+  list-style-type: none;
+  padding-left: 0;
+}

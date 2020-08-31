@@ -1,0 +1,13 @@
+.slider__pagination-bullet-active {
+  width: 10px;
+  height: 10px;
+  background-color: transparent;
+  border: 1px solid rgba(255, 255, 255, 1);
+  border-radius: 100%;
+  transition: border .3s, background-color .3s;
+}
+
+.slider__pagination-bullet-active:hover {
+  background-color: rgba(255, 255, 255, .5);
+  border: 1px solid #fff;
+}

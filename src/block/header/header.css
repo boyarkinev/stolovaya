@@ -1,0 +1,26 @@
+@import url(./__navigation/header__navigation.css);
+@import url(./__navigation-item/header__navigation-item.css);
+@import url(./__container/header__container.css);
+@import url(./__main/header__main.css);
+@import url(./__logo-container/header__logo-container.css);
+@import url(./__logo-name/header__logo-name.css);
+@import url(./__purshaces-bascet/header__purshaces-bascet.css);
+@import url(./__purshaces/header__purshaces.css);
+@import url(./__purshaces-count/header__purshaces-count.css);
+@import url(./__purshaces-pieces/header__purshaces-pieces.css);
+@import url(./__purshaces-text/headers__purshaces-text.css);
+@import url(./__purshaces-coast/header__purshaces-coast.css);
+@import url(./__providers/header__providers.css);
+@import url(./__providers-pic/header__providers-pic.css);
+@import url(./__search-container/header__search-container.css);
+@import url(./__search-input/header__search-input.css);
+@import url(./__search-button/header__search-button.css);
+@import url(./__range/header__range.css);
+@import url(./__range-pics/header__range-pics.css);
+@import url(./__range-container/header__range-container.css);
+@import url(./__range-caption/header__range-caption.css);
+
+.header {
+  display: flex;
+  flex-direction: column;
+}

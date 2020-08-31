@@ -1,0 +1,8 @@
+@import url(./__container/main__container.css);
+
+.main {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-start;
+  margin: 0 auto;
+}

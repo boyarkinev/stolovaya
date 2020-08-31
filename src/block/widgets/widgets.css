@@ -1,0 +1,32 @@
+@import url(./__offers/widgets__offers.css);
+@import url(./__sale-pic/widgets__sale-pic.css);
+@import url(./__sale-text/widgets__sale-text.css);
+@import url(./__sale-title/widgets__sale-title.css);
+@import url(./__sale-link/widgets__sale-link.css);
+@import url(./__target-offer-title/widgets__target-offer-title.css);
+@import url(./__target-offer-items/widgets__target-offer-items.css);
+@import url(./__target-offer-item/widgets__target-offer-item.css);
+@import url(./__target-offer-link/widgets__target-offer-link.css);
+@import url(./__target-offer-text/widgets__target-offer-text.css);
+@import url(./__target-offer-arrow/widgets__target-offer-arrow.css);
+@import url(./__slide/widgets__slide.css);
+@import url(./__slide-pic/widgets__slide-pic.css);
+@import url(./__slide-info/widgets__slide-info.css);
+@import url(./__slide-text/widgets__slide-text.css);
+@import url(./__slide-title/widgets__slide-title.css);
+@import url(./__slide-subtitle/widgets__slide-subtitle.css);
+@import url(./__slide-link/widgets__slide-link.css);
+@import url(./__brands/widgets__brands.css);
+@import url(./__brands-logo/widgets__brands-logo.css);
+@import url(./__brands-link/widgets__brands-link.css);
+@import url(./__brands-selector/widgets__brands-selector.css);
+
+.widgets {
+  width: 100%;
+  display: grid;
+  grid-template-columns: 300px minmax(300px, 902px) 300px;
+  grid-template-rows: auto auto;
+  gap: 21px;
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif;
+  margin: 0 auto;
+}

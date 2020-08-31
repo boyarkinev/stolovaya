@@ -1,0 +1,9 @@
+.header__providers-pic {
+  width: 34px;
+  height: 34px;
+  margin-right: 5px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url(../../../images/developers.png);
+}

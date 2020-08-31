@@ -1,0 +1,9 @@
+@import url(./_crop-bottom/refs__image_crop-bottom.css);
+@import url(./_crop-left/refs__image_crop-left.css);
+@import url(./_crop-right/refs__image_crop-right.css);
+
+.refs__image {
+  height: auto;
+  object-fit: cover;
+  object-position: center;
+}

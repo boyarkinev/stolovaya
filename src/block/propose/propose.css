@@ -1,0 +1,21 @@
+@import url(./__info/propose__info.css);
+@import url(./__title/propose__title.css);
+@import url(./__info-text/propose__info-text.css);
+@import url(./__info-title/propose__info-title.css);
+@import url(./__pagination-btn/propose__pagination-btn.css);
+@import url(./__about/propose__about.css);
+@import url(./__about-logo/propose__about-logo.css);
+@import url(./__about-name/propose__about-name.css);
+@import url(./__about-slogan/propose__about-slogan.css);
+@import url(./__about-subtitle/propose__about-subtitle.css);
+@import url(./__about-text/propose__about-text.css);
+@import url(./__about-info/propose__about-info.css);
+
+.propose {
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin: 0 auto;
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif;
+}

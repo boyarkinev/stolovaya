@@ -1,0 +1,9 @@
+.header__range {
+  width: 100%;
+  display: grid;
+  grid-template-columns: repeat(11, max-content);
+  justify-content: space-between;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 0;
+}

@@ -1,0 +1,17 @@
+.widgets__target-offer-item {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 13px;
+  padding-bottom: 13px;
+  border-bottom: 1px solid #eee;
+  transition: color .3s;
+  cursor: pointer;
+}
+
+.widgets__target-offer-item:last-of-type {
+  border-bottom: 0 solid #eee;
+}
+
+.widgets__target-offer-item:hover {
+  color: #ffaf2d;
+}

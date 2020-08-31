@@ -1,0 +1,7 @@
+.section__main {
+  margin-top: 170px;
+}
+
+.section__main:last-of-type {
+  margin-bottom: 170px;
+}

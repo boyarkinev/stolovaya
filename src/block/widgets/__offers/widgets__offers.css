@@ -1,0 +1,8 @@
+@import url(./_border/widget__offers_border.css);
+
+.widgets__offers {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  background-color: #fff;
+}

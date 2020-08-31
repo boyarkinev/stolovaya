@@ -1,0 +1,10 @@
+@import url(./__pagination/slider__pagination.css);
+@import url(./__pagination-bullet/slider__pagination-bullet.css);
+@import url(./__pagination-bullet-active/slider__pagination-bullet-active.css);
+@import url(./__arrow/slider__arrow.css);
+@import url(./__container/slider__container.css);
+@import url(./__wrapper/slider__wrapper.css);
+
+.slider {
+  position: relative;
+}

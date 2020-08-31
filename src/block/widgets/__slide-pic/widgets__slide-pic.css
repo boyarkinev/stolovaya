@@ -1,0 +1,4 @@
+.widgets__slide-pic {
+  object-fit: cover;
+  object-position: center;
+}

@@ -1,0 +1,15 @@
+.refs__item-three {
+  display: flex;
+  justify-content: flex-start;
+  align-items: center;
+  overflow: hidden;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow .3s;
+  z-index: 5;
+}
+
+.refs__item-three:hover {
+  box-shadow: 0 0 35px 0 rgba(35, 35, 35, .1);
+  z-index: 1;
+}

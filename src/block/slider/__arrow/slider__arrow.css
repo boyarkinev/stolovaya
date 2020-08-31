@@ -1,0 +1,24 @@
+@import url(./_left/slider__arrow_left.css);
+@import url(./_right/slider__arrow_right.css);
+
+.slider__arrow {
+  width: 16px;
+  height: 28px;
+  position: absolute;
+  display: none;
+  align-items: center;
+  justify-content: center;
+  bottom: 40px;
+  z-index: 10;
+  cursor: pointer;
+  transform: translateY(-50%);
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+/* @media (max-width: 768px) {
+  .slider__arrow {
+    display: flex;
+  }
+} */
+

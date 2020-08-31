@@ -1,0 +1,9 @@
+@import url(./_center/refs__item-title_center.css);
+
+.refs__item-title {
+  font-size: 30px;
+  line-height: 38px;
+  font-weight: normal;
+  margin-top: 0;
+  margin-bottom: 22px;
+}
