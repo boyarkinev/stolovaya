@@ -1,0 +1,7 @@
+.header__search-container {
+  width: 100%;
+  display: flex;
+  outline: none;
+  border: none;
+  -webkit-appearance: none;
+}

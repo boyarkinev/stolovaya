@@ -1,0 +1,6 @@
+.header__purshaces-count {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  margin-right: 12px;
+}

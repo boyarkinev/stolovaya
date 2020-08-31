@@ -1,0 +1,10 @@
+@import url(./_dark-theme/refs__items_dark-theme.css);
+@import url(./_light-theme/refs__items_light-theme.css);
+
+.refs__items {
+  display: grid;
+  grid-template-columns: 42% auto;
+  grid-template: repeat(2, auto);
+  gap: 12px;
+  margin-top: 16px;
+}

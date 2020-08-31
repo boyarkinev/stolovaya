@@ -1,0 +1,10 @@
+.slider__pagination {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  position: absolute;
+  bottom: 33px;
+  left: 50%;
+  z-index: 10;
+  cursor: pointer;
+}

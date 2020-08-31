@@ -1,0 +1,17 @@
+@import url(./__header-nav/section__header_nav.css);
+@import url(./__header/section__header.css);
+@import url(./__header-range/section__header-range.css);
+@import url(./__main/section__main.css);
+@import url(./__title/section__title.css);
+@import url(./__footer_nav/section__footer_nav.css);
+@import url(./__footer_owner/section__footer_owner.css);
+
+.section {
+  display: flex;
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif, sans-serif;
+  font-style: normal;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 0;
+  width: 100%;
+}

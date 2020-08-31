@@ -1,0 +1,9 @@
+.slider__wrapper {
+  width: 100%;
+  display: flex;
+  position: relative;
+  z-index: 1;
+  transition-property: transform;
+  box-sizing: content-box;
+  transform: translate3d(0px, 0, 0);
+}

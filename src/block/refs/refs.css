@@ -1,0 +1,18 @@
+@import url(./__title/refs__title.css);
+@import url(./__text/refs__text.css);
+@import url(./__items/refs__items.css);
+@import url(./__item-one/refs__item-one.css);
+@import url(./__item-two/refs__item-two.css);
+@import url(./__item-three/refs__item-three.css);
+@import url(./__brand-name/refs__brand-name.css);
+@import url(./__info-container/refs__info-container.css);
+@import url(./__item-title/refs__item-title.css);
+@import url(./__image/refs__image.css);
+
+.refs {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  margin: 0 auto;
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif;
+}

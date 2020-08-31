@@ -1,0 +1,17 @@
+@import url(./__title/news__title.css);
+@import url(./__container/news__container.css);
+@import url(./__left-block/news__left-block.css);
+@import url(./__left-block-image/news__left-block-image.css);
+@import url(./__source/news__source.css);
+@import url(./__brand-name/news__brand-name.css);
+@import url(./__date/news__date.css);
+@import url(./__block-title/news__block-title.css);
+@import url(./__text/news__text.css);
+@import url(./__right-block/news__right-block.css);
+@import url(./__right-block-container/news__right-block-container.css);
+@import url(./__link/news__link.css);
+
+.news { 
+  margin: 0 auto;
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif;
+}

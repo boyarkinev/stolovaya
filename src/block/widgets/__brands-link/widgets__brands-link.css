@@ -1,0 +1,15 @@
+.widgets__brands-link {
+  font-size: 18px;
+  font-weight: normal;
+  line-height: 22px;
+  text-decoration: none;
+  margin: 0 auto;
+  color: inherit;
+  text-align: center;
+  min-width: 135px;
+  transition: opacity .3s;
+}
+
+.widgets__brands-link:hover {
+  opacity: .7;
+}

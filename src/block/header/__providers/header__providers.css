@@ -1,0 +1,8 @@
+.header__providers {
+  width: 135px;
+  display: flex;
+  align-items: center;
+  text-decoration: none;
+  color: #050505;
+  margin-left: 48px;
+}

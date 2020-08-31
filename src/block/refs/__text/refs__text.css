@@ -1,0 +1,11 @@
+@import url(./_center/refs__text_center.css);
+
+.refs__text {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 200;
+  margin-top: 0;
+  margin-bottom: 0;
+  max-width: 660px;
+  color: #777;
+}

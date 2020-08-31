@@ -1,0 +1,7 @@
+.header__logo-name {
+  font-size: 33px;
+  line-height: 33px;
+  font-weight: normal;
+  margin: 0 0 0 8px;
+  transform: translate(0 3px);
+}

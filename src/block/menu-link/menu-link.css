@@ -1,0 +1,19 @@
+@import url(./_light/menu-link_light.css);
+@import url(./_tel/menu-link_tel.css);
+@import url(./_email/menu-link_email.css);
+
+.menu-link {
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 22px;
+  font-weight: normal;
+  text-decoration: none;
+  margin: 0;
+  transition: opacity .3s;
+  /* padding-left: 25px;
+  padding-right: 25px; */
+}
+
+.menu-link:hover {
+  opacity: .7;
+}

@@ -1,0 +1,24 @@
+.refs__item-one {
+  display: flex;
+  flex-direction: column;
+  justify-content: flex-end;
+  overflow: hidden;
+  margin: 0 auto;
+  box-sizing: border-box;
+  padding-top: 70px;
+  padding-left: 87px;
+  padding-right: 74px;
+  grid-column-start: 1;
+  grid-column-end: 2;
+  grid-row-start: 1;
+  grid-row-end: 3;
+  text-decoration: none;
+  color: inherit;
+  transition: box-shadow .3s;
+  z-index: 5;
+}
+
+.refs__item-one:hover {
+  box-shadow: 0 0 35px 0 rgba(35, 35, 35, .1);
+  z-index: 1;
+}

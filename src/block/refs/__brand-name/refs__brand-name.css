@@ -1,0 +1,11 @@
+@import url(./_center/refs__brand-name_center.css);
+@import url(./_right/refs__brand-name_right.css);
+
+.refs__brand-name {
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 200;
+  text-transform: uppercase;
+  margin-top: 0;
+  margin-bottom: 12px;
+}

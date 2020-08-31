@@ -1,0 +1,17 @@
+.widgets__slide-link {
+  font-size: 18px;
+  line-height: 22px;
+  font-weight: normal;
+  text-decoration: none;
+  color: #fff;
+  margin-top: 0;
+  box-sizing: border-box;
+  padding: 8px 20px 6px;
+  background-color: #ffaf2d;
+  border-radius: 50px;
+  transition: opacity .3s;
+}
+
+.widgets__slide-link:hover {
+  opacity: .8;
+}

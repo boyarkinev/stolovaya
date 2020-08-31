@@ -10,7 +10,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git@github.com:boyarkinev/stolovaya.git"
+    "url": "https://github.com/boyarkinev/stolovaya.git"
   },
   "author": "Evgeny Boyarkin",
   "license": "ISC",
@@ -44,7 +44,7 @@
   "dependencies": {
     "babel-polyfill": "6.26.0",
     "core-js": "3.4.1",
-    "swiper": "6.0.4"
+    "swiper": "^6.1.2"
   },
   "browserslist": [
     "> 1%",

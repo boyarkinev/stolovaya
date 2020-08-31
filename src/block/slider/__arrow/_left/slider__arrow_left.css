@@ -1,0 +1,11 @@
+.slider__arrow_left {
+  left: 36px;
+  right: auto;
+  transition: opacity .3s;
+  background-image: url("data:image/svg+xml,%3C%3Fxml version='1.0' encoding='UTF-8' standalone='yes'%3F%3E%3C!DOCTYPE svg PUBLIC '-//W3C//DTD SVG 1.1//EN' 'http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd'%3E%3Csvg width='16' height='28' viewBox='0 0 16 28' xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1' baseProfile='full'%3E%3Cg transform='scale(1,-1) translate(0,-28)'%3E%3Cpath d='M 13.162375 1.000000 L 1.262375 14.000000 C 0.912542 14.382171 0.912542 14.968250 1.262375 15.350421 L 13.162375 28.350421 L 14.637625 27.000000 L 2.737625 14.000000 L 2.737625 15.350421 L 14.637625 2.350421 L 13.162375 1.000000 Z' transform='scale(1.000000,1.000000) translate(0.050000,-0.675211)' fill='%23ffffff' opacity='1.000000'%3E%3C/path%3E%3C/g%3E%3C/svg%3E");
+}
+
+
+.slider__arrow_left:hover {
+  opacity: .7;
+}

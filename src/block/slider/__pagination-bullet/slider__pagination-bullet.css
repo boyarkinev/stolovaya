@@ -1,0 +1,9 @@
+.slider__pagination-bullet {
+  width: 8px;
+  height: 8px;
+  background-color: rgba(255, 255, 255, 1);
+  border: 1px solid transparent;
+  border-radius: 100%;
+  margin-left: 5px;
+  margin-right: 5px;
+}

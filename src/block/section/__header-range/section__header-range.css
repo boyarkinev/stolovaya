@@ -1,0 +1,6 @@
+.section__header-range {
+  background-color: #fff;
+  min-height: 100px;
+  box-shadow: 0 15px 15px 1px rgba(35, 35, 35, .05);
+  margin-bottom: 21px;
+}

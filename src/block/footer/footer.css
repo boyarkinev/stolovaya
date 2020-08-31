@@ -1,0 +1,17 @@
+@import url(./__navigation/footer__navigation.css);
+@import url(./__list-title/footer__list-title.css);
+@import url(./__list-items/footer__list-items.css);
+@import url(./__list-items-link/footer__list-items-link.css);
+@import url(./__owner/footer__owner.css);
+@import url(./__owner-logo/footer__owner-logo.css);
+@import url(./__owner-info/footer__owner-info.css);
+@import url(./__owner-name/footer__owner-name.css);
+@import url(./__owner-slogan/footer__owner-slogan.css);
+@import url(./__creator-info/footer__creator-info.css);
+@import url(./__list-items-text/footer__list-items-text.css);
+
+.footer {
+  display: flex;
+  flex-direction: column;
+  font-family: 'Myriad Pro', Arial, Helvetica, sans-serif;
+}

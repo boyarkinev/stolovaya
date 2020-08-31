@@ -1,0 +1,10 @@
+.propose__info-text {
+  font-size: 18px;
+  line-height: 24px;
+  font-weight: 200;
+  margin: 0;
+}
+
+.propose__info-text:last-of-type {
+  margin-bottom: 40px;
+}

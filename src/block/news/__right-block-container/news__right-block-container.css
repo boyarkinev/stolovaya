@@ -1,0 +1,5 @@
+.news__right-block-container {
+  display: grid;
+  column-gap: 20px;
+  grid-template-columns: min-content 1fr;
+}

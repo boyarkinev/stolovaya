@@ -1,0 +1,4 @@
+.news__left-block {
+  display: grid;
+  grid-template-columns: min-content;
+}
